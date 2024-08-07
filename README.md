@@ -50,7 +50,7 @@ After creating the environment, run `conda activate ddpm-pytorch` to enter the e
 
 3. **Training**
 
-Enter the base directory ` DDPM-pytorch`. Run `python3 ./scripts/train.py` to conduct the training task. You can change the training relevant parameters in the file `./config/default.yaml`.
+Enter the base directory `DDPM-pytorch`. Run `python3 ./scripts/train.py` to conduct the training task. You can change the training relevant parameters in the file `./config/default.yaml`.
 
 The training task (31 epochs) takes about 40 minutes on one `NVIDIA RTX 4090 24G`. The checkpoint file is [available](https://cloud.tsinghua.edu.cn/d/10d12a84cafc40e89f5a/) now.
 
