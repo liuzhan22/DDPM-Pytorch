@@ -15,10 +15,10 @@ The dataset path looks like this:
 ```
 ./data/MNIST/
 └── raw
-   	├── t10k-images-idx3-ubyte
-   	├── t10k-labels-idx1-ubyte
+    ├── t10k-images-idx3-ubyte
+    ├── t10k-labels-idx1-ubyte
     ├── train-images-idx3-ubyte
-   	└── train-labels-idx1-ubyte
+    └── train-labels-idx1-ubyte
 ```
 
 The corresponding part in the config yaml file `./config/default.yaml` is as follow:
