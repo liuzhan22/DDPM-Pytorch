@@ -4,7 +4,17 @@ This repository implements [DDPM](https://arxiv.org/abs/2006.11239) from scratch
 
 ### Output Sample Example
 
+Time step 1000 (start of the Reverse Process):
+ ![x0_999](./assets/x0_999.png)
+
+
+Time step 500 (middle of the Reverse Process):
+![x0_500](./assets/x0_500.png)
+
+
+Time step 500 (middle of the Reverse Process):
  ![x0_0](./assets/x0_0.png)
+
 
 ### Quickstart
 
